@@ -269,6 +269,8 @@ void CMy3DgisApp::LoadCustomState()
 
 void CMy3DgisApp::SaveCustomState()
 {
+
+	//测试修改
 }
 
 // CMy3DgisApp 消息处理程序
