@@ -17,7 +17,7 @@
 #include "afxdialogex.h"
 #include "3Dgis.h"
 #include "MainFrm.h"
-
+#include "MainFrm00000022222.h"
 #include "IpFrame.h"
 #include "3DgisDoc.h"
 #include "3DgisView.h"
