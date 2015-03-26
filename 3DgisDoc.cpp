@@ -1,3 +1,4 @@
+
 // 这段 MFC 示例源代码演示如何使用 MFC Microsoft Office Fluent 用户界面 
 // (“Fluent UI”)。该示例仅供参考，
 // 用以补充《Microsoft 基础类参考》和 
@@ -175,3 +176,11 @@ void CMy3DgisDoc::Dump(CDumpContext& dc) const
 //Test001-----002-----003-----004-----005-----006-----007-----008-----009
 
 // CMy3DgisDoc 命令
+
+
+
+
+/*
+
+ just for test github============================
+*/
