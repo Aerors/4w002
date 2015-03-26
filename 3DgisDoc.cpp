@@ -172,6 +172,6 @@ void CMy3DgisDoc::Dump(CDumpContext& dc) const
 	COleServerDoc::Dump(dc);
 }
 #endif //_DEBUG
-
+//Test001-----002-----003-----004-----005-----006-----007-----008-----009
 
 // CMy3DgisDoc √¸¡Ó
