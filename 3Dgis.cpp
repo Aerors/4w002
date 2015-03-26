@@ -263,8 +263,6 @@ void CMy3DgisApp::PreLoadState()
 
 void CMy3DgisApp::LoadCustomState()
 {
-	
-	//jisuanji
 }
 
 void CMy3DgisApp::SaveCustomState()
